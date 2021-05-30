@@ -24,7 +24,7 @@ def logo():
                                
  %sAuthor by %snurpaujiana%s
  %sGithub %sgithub.com/nurpaujiana%s
- %sTeam %snurpaujiana%s
+ %sSubscribe my youtube channel %snurpaujiana%s
  %sTools spam"""%(qu,pu,ku,qu,pu,ku,qu,pu,ku,qu,qu)
 #-------------------------------Input Function------------------------------------------
 def input():
